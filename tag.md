@@ -1,4 +1,4 @@
 ---
 layout: tag_index
-tag: 日記
+tag: jekyll
 ---
