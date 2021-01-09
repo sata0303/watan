@@ -228,7 +228,7 @@ plugins:
     month: '/archives/month/:year:month/'
 
 jekyll-archives:
-  enabled: [all]
+  enabled: month
   layouts:
     year: year-archive
     month: month-archive
