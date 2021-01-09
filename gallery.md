@@ -9,7 +9,7 @@ author_profile: true
 
 Githubの容量はそんなに大きいわけじゃないからどうしようかな。
 
-![代々木](https://photos.app.goo.gl/5oAkXJFSj97UWtieA)
+![代々木](https://image.hldy-cdn.com/c/w=1336,h=826,g=5,a=2,r=auto,f=webp:auto/holiday_article_images/7452/7452.jpg?1607298341)
 ### Астана
 アスタナはカザフスタンの首都である[^mumu]。
 
