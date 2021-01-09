@@ -281,3 +281,11 @@ defaults:
       comments: # true
       share: true
       related: true
+
+
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:name/
+    filepath: /tag
+    layout: tag_index
