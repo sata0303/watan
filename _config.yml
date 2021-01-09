@@ -220,26 +220,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-    jekyll-archives:
-    enabled: all
-  layouts:
-    month: month_archive
-   permalinks:
-    month: '/archives/month/:year:month/'
-
-jekyll-archives:
-  enabled: month
-  layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    tag: tag-archive-layout
-  permalinks:
-    year: '/archives/year/:year/'
-    month: '/archives/month/:year:month/'
-    day: '/archives/month/:year:month:day/'
-    tag: '/archives/tag/:name/'
-    category: '/archives/category/:name/'
+ '
 
 
 # mimic GitHub Pages with --safe
