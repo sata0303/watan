@@ -1,6 +1,6 @@
 ---
 
-layout: wide
+layout: default
 author_profile: true
 ---
 
