@@ -98,6 +98,7 @@ author:
   bio              : "stuent."
   location         : "Watan"
   email            : "admin@watan.tokyo"
+  twitter          : "http://twitter.com/sata0303"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
