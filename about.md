@@ -1,5 +1,5 @@
 ---
-layout: wide
+classes: wide
 author_profile: true
 ---
 
