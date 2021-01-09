@@ -1,10 +1,10 @@
 # main links
 main:
    - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
-   - title: "アーカイブ"
-     url: /year-archive/
-   - title: "ギャラリー"
+     url: /about
+   - title: "Archive"
+   url: /year-archive/
+   - title: "Gallery"
      url: /collection-archive/
    - title: "Sitemap"
      url: /sitemap/
