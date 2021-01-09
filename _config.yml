@@ -20,7 +20,7 @@ title                    : "Watan@Tokyo"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SATO @Komaba"
-description              : "Welcome to amazing WATAN located in Tokyo.."
+description              : "Welcome to amazing WATAN d in Tokyo.."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -93,10 +93,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "SATO @ Komaba"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "I live near Komaba, where UTokyo campus is located."
+  location         : "Watan in Tokyo"
   email            :
   links:
     - label: "Email"
