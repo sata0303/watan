@@ -93,11 +93,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "SATO @ Komaba"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "JAPAN"
-  location         : "Watan in Tokyo"
-  email            :
+  name             : "SATA0303"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "stuent."
+  location         : "Watan"
+  email            : "admin@watan.tokyo"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
