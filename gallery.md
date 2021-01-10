@@ -13,7 +13,9 @@ Githubの容量はそんなに大きいわけじゃないからどうしよう�
 ![駒場](https://pbs.twimg.com/media/ErB1OH0VgAEIZ-6.jpg "図1 駒場公園")
 <center>図1 駒場公園</center>
 
+![](https://pbs.twimg.com/media/EoXRfopU0AAmXKI?format=jpg)
 
+![](https://pbs.twimg.com/media/EmrOqwhVcAAUeI6?format=jpg)
 ### Астана
 アスタナはカザフスタンの首都である[^mumu]。
 
