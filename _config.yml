@@ -258,14 +258,15 @@ category_archive:
 tag_archive:
   type: jekyll-archives  # liquid
   path: /tags/
+
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:  all
-    #- year
-    #- month
-    #- day
-    #- categories
-    #- tags
+    - year
+    - month
+    - day
+    - categories
+    - tags
   layouts:
     year    : archive-taxonomy
     month   : archive-taxonomy
