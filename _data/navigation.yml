@@ -3,7 +3,7 @@ main:
    - title: "About"
      url: about/
    - title: "Archive"
-     url: /_pages/collection-archive
+     url: collection-archive/
    - title: "Gallery"
      url: gallery/
    - title: "Sitemap"
