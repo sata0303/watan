@@ -222,6 +222,22 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 
+jekyll-archives:
+  enabled: [all]
+  layouts:
+    year: year-archive
+    month: month-archive
+    day: day-archive
+    tag: tag-archive-layout
+  permalinks:
+    year: '/archives/year/:year/'
+    month: '/archives/month/:year:month/'
+    day: '/archives/month/:year:month:day/'
+    tag: '/archives/tag/:name/'
+    category: '/archives/category/:name/'
+
+
+
 
 # mimic GitHub Pages with --safe
 whitelist:
