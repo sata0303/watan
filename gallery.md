@@ -11,7 +11,7 @@ title: Gallery
 Githubの容量はそんなに大きいわけじゃないからどうしようかな。
 
 ![駒場](https://pbs.twimg.com/media/ErB1OH0VgAEIZ-6.jpg "図1 駒場公園")
-図1 駒場公園
+<center>図1 駒場公園</center>
 
 
 ### Астана
