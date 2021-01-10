@@ -2,9 +2,9 @@
 main:
    - title: "About"
      url: about/
-   - title: "Archive"
-     url: collection-archive/
+   # - title: "Archive"
+   #  url: collection-archive/
    - title: "Gallery"
      url: gallery/
-   - title: "Sitemap"
-     url: sitemap/
+   # - title: "Sitemap"
+    # url: sitemap/
