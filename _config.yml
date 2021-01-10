@@ -224,12 +224,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-archives
 
-jekyll-archives:
-  enabled: [month]
-  layouts:
-    month: month_archive
-   permalinks:
-    month: '/archives/month/:year:month/'
+
 
 
 
