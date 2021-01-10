@@ -126,7 +126,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/sata0303"
     - label: "ВКонтакте"
-      icon: "fab fa-fw fa-facebook-square"
+      icon: "fab fa-vk"
       url: "https://m.vk.com/id447768225"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
