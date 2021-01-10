@@ -225,19 +225,11 @@ plugins:
   - jekyll-archives
 
 jekyll-archives:
-  enabled: [all]
+  enabled: [month]
   layouts:
-    year: year-archive
-    month: month-archive
-    day: day-archive
-    tag: tag-archive-layout
-  permalinks:
-    year: '/archives/year/:year/'
+    month: month_archive
+   permalinks:
     month: '/archives/month/:year:month/'
-    day: '/archives/month/:year:month:day/'
-    tag: '/archives/tag/:name/'
-    category: '/archives/category/:name/'
-
 
 
 
