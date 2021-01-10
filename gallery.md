@@ -10,7 +10,7 @@ title: Gallery
 
 Githubの容量はそんなに大きいわけじゃないからどうしようかな。
 
-![代々木](https://www.dropbox.com/s/8dqdebxzmyk5b63/IMG20201113130120.jpg?dl=0)
+![駒場](https://pbs.twimg.com/media/ErB1OH0VgAEIZ-6.jpg)
 
 ### Астана
 アスタナはカザフスタンの首都である[^mumu]。
