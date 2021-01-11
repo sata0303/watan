@@ -1,34 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@sata0303 
-sata0303
-/
-watan
-forked from mmistakes/minimal-mistakes
-0
-012.8k
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-watan/_config.yml
-@sata0303
-sata0303 update _config.yml
-Latest commit 03bb41d 11 hours ago
- History
- 30 contributors
-@mmistakes@sata0303@d-Rickyy-b@ohadschn@Pradhyo@yihangho@LoveMeWithoutAll@YuyingWu@westes@vlajos@tony-ho@rriemann
-300 lines (265 sloc)  8.66 KB
-  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -327,17 +296,3 @@ defaults:
       comments: # true
       share: true
       related: true
-
-
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
