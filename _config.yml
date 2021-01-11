@@ -1,3 +1,34 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@sata0303 
+sata0303
+/
+watan
+forked from mmistakes/minimal-mistakes
+0
+012.8k
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+Settings
+watan/_config.yml
+@sata0303
+sata0303 update _config.yml
+Latest commit 03bb41d 11 hours ago
+ History
+ 30 contributors
+@mmistakes@sata0303@d-Rickyy-b@ohadschn@Pradhyo@yihangho@LoveMeWithoutAll@YuyingWu@westes@vlajos@tony-ho@rriemann
+300 lines (265 sloc)  8.66 KB
+  
 # Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
@@ -247,28 +278,33 @@ whitelist:
 #  - <base_path>/tags/my-awesome-tag/index.html ~> path: /tags/
 #  - <base_path/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path/my-awesome-category/index.html ~> path: /
-jekyll-archives:	
-  enabled:  all	
-    - year	
-    - month	
-    - day	
-    - categories	
-    - tags	
-  layouts:	
-    year    : archive-taxonomy	
-    month   : archive-taxonomy	
-    day     : archive-taxonomy	
-    category: archive-taxonomy	    
-    tag     : archive-taxonomy	    
-  permalinks:	  permalinks:
-    year    : /:year/	
-    month   : /:year/:month/	
-    day     : /:year/:month/:day/	
-    category: /categories/:name/	    category: /categories/:name/
-    tag     : /tags/:name/	    tag: /tags/:name/
-
+category_archive:
+  type: jekyll-archives  # liquid
+  path: /categories/
+tag_archive:
+  type: jekyll-archives  # liquid
+  path: /tags/
 
 # https://github.com/jekyll/jekyll-archives
+jekyll-archives:
+  enabled:  all
+    - year
+    - month
+    - day
+    - categories
+    - tags
+  layouts:
+    year    : archive-taxonomy
+    month   : archive-taxonomy
+    day     : archive-taxonomy
+    category: archive-taxonomy
+    tag     : archive-taxonomy
+  permalinks:
+    year    : /:year/
+    month   : /:year/:month/
+    day     : /:year/:month/:day/
+    category: /categories/:name/
+    tag     : /tags/:name/
 
 # HTML Compression
 # - https://jch.penibelst.de/
@@ -293,3 +329,15 @@ defaults:
       related: true
 
 
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
