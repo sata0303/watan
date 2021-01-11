@@ -26,4 +26,7 @@ Twitterの140文字では書ききれないことも増えてきたのでメモ�
 
 ### 読書メモ
 
-### 註）
+### Flickr
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/191793404@N08/50823629848/in/dateposted-public/" title="IMG20201016130646"><img src="https://live.staticflickr.com/65535/50823629848_946dc6df17_k.jpg" width="2048" height="1536" alt="IMG20201016130646"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+## 註
