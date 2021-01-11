@@ -258,8 +258,8 @@ jekyll-archives:
     year    : archive-taxonomy	
     month   : archive-taxonomy	
     day     : archive-taxonomy	
-    category: archive-taxonomy	    category: archive-taxonomy
-    tag     : archive-taxonomy	    tag: archive-taxonomy
+    category: archive-taxonomy	    
+    tag     : archive-taxonomy	    
   permalinks:	  permalinks:
     year    : /:year/	
     month   : /:year/:month/	
