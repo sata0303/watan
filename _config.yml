@@ -101,8 +101,8 @@ author:
   location         : "Watan"
   email            : "admin@watan.tokyo"
   twitter          : "sata0303"
-  Flickr           : "" 
-  Вконтакте　: "" 
+  Flickr           : "aaa" 
+  Вконтакте　: "hoge" 
 
   links:
     - label: "Email"
