@@ -29,7 +29,7 @@ title: Gallery
 ### Ашхабад
 
 
-### 註）
+### 註
 [^1]:HUAWEI P20 Lite、 OPPO Reno Aを使用
 [^2]: ヌルスルタンに改称された。
 
