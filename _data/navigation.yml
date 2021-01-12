@@ -5,6 +5,6 @@ main:
    # - title: "Archive"
    #  url: collection-archive/
    - title: "Gallery"
-     url: gallery/
+     url: /_pages/gallery
    # - title: "Sitemap"
     # url: sitemap/
