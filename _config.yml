@@ -101,8 +101,7 @@ author:
   location         : "Watan"
   email            : "admin@watan.tokyo"
   twitter          : "sata0303"
-  Flickr           : "aaa" 
-  Вконтакте　: "hoge" 
+  
 
   links:
     - label: "Email"
@@ -124,13 +123,7 @@ author:
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
 
-- label: "Flickr"
-      icon: "fab fa-flickr"
-      # url: "https://instagram.com/"
 
-- label: "ВКонтакте"
-      icon: "fab fa-vk"
-      # url: "https://vk.com/"
 # Site Footer
 footer:
   links:
