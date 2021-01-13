@@ -20,6 +20,13 @@ title: Gallery
 ### 川越
 このとき初めて埼玉県に行った。コロナがやばいって本格的に騒がれる前に行ったので人はそれなりにはいた。
 
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50829493548/in/dateposted-public/" title="IMG20200223114650"><img src="https://live.staticflickr.com/65535/50829493548_db020e83cf_k.jpg" width="1536" height="2048" alt="IMG20200223114650"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50830237991/in/dateposted-public/" title="IMG20200224091730"><img src="https://live.staticflickr.com/65535/50830237991_986483d6cc_k.jpg" width="1536" height="2048" alt="IMG20200224091730"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50830324577/in/dateposted-public/" title="IMG20200224095102"><img src="https://live.staticflickr.com/65535/50830324577_c5dbd533dd_k.jpg" width="1536" height="2048" alt="IMG20200224095102"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 ### 高幡不動
 
 ## ロシア
