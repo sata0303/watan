@@ -28,6 +28,13 @@ title: Gallery
 
 
 ### 高幡不動
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50831922966/in/dateposted-public/" title="IMG20200303140400"><img src="https://live.staticflickr.com/65535/50831922966_353b0670af_k.jpg" width="1536" height="2048" alt="IMG20200303140400"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50831177643/in/dateposted-public/" title="IMG20200303135827"><img src="https://live.staticflickr.com/65535/50831177643_282bc67520_k.jpg" width="1536" height="2048" alt="IMG20200303135827"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50831926471/in/dateposted-public/" title="IMG20200303135049"><img src="https://live.staticflickr.com/65535/50831926471_6b187ff353_k.jpg" width="1536" height="2048" alt="IMG20200303135049"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50831182138/in/dateposted-public/" title="IMG20200303134938"><img src="https://live.staticflickr.com/65535/50831182138_cccb080c6c_k.jpg" width="1536" height="2048" alt="IMG20200303134938"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ## ロシア
 ### Москва и Золотое Кольцо
