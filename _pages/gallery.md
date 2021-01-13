@@ -18,7 +18,7 @@ title: Gallery
 ![代々木](https://pbs.twimg.com/media/EmrOqwhVcAAUeI6?format=jpg)
 
 ### 川越
-
+このとき初めて埼玉県に行った。コロナがやばいって本格的に騒がれる前に行ったので人はそれなりにはいた。
 
 ### 高幡不動
 
