@@ -1,6 +1,6 @@
 ---
 layout: single
-title: month_archive_links
+title: アーカイブス
 ---
 
 {% include month_archive_links.html %}
