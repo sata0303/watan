@@ -2,6 +2,7 @@
 title: About
 layout: single
 author_profile: true
+toc: true
 ---
 
 ## 目的
