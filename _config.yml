@@ -227,7 +227,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
-  jekyll-archives
+  - jekyll-archives
 
 
 
@@ -279,7 +279,7 @@ jekyll-archives:
     tag: '/archives/tag/:name/'
     category: '/archives/category/:name/'
 
-    
+
 
 
 # Defaults
