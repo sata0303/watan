@@ -3,4 +3,4 @@ layout: single
 title: アーカイブス
 ---
 
-{% include posts-tag.html %}
+{% include posts-category.html %}
