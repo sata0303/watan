@@ -3,4 +3,4 @@ layout: single
 title: アーカイブス
 ---
 
-{% include month_archive_links.html %}
+{% include archive.html %}
