@@ -146,7 +146,14 @@ footer:
       icon: "fab fa-fw fa-instagram"
       # url:
 
+collections:
+  my_tags:
+    output: true
+    permalink: /tag/:name/
+    filepath: /tag
+    layout: tag_index
 
+    
 # Reading Files
 include:
   - .htaccess
