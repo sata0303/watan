@@ -3,6 +3,7 @@
 layout: single
 author_profile: true
 title: Gallery
+toc: true
 ---
 
 これまでに格安中華スマホ[^1]を使って撮ってきた写真のうち、おお、カメラの性能を示すサンプル画像みたいで綺麗じゃん！って感じた画像を適当に貼り付けた。Flickrでアップロードした写真をこのページに埋め込んである。
