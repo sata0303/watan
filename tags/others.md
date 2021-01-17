@@ -3,8 +3,7 @@ layout: single
 title: others
 ---
 
-test
-test
+投稿　タグ
 
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
