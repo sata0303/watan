@@ -1,7 +1,5 @@
 
 
-
-<html lang="ja">
 <head>
   <meta charset="utf-8">
 　　 <title>グラフ</title> 
@@ -20,4 +18,3 @@
     </script>
 
   </body>
-</html>
