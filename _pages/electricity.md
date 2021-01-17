@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 電力使用状況
+title: 電力使用状況（試行れ
 author_profile: true
 ---
 
@@ -15,7 +15,7 @@ var myChart = new Chart(ctx, {
     data: {
         labels: ["1月", "2月", "3月", "4月", "5月", "6月"],
         datasets: [{
-            label: '得票数',
+            label: '電気料金',
             data: [1250, 1952, 2623, 5250, 2122, 3455],
             backgroundColor: [
                 'rgba(255, 99, 132, 0.2)',
