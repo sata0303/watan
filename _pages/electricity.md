@@ -1,6 +1,6 @@
 ---
 layout: single
-title: 電力使用状況（試行れ
+title: 電力使用状況（試行）
 author_profile: true
 ---
 
