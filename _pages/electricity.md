@@ -11,7 +11,7 @@ Node.jsを使ってみたかったので、例として電気代の推移をグ�
 <script>
 var ctx = document.getElementById("myChart").getContext('2d');
 var myChart = new Chart(ctx, {
-    type: 'bar',
+    type: 'line',
     data: {
         labels: ["1月", "2月", "3月", "4月", "5月", "6月"],
         datasets: [{
