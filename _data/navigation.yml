@@ -8,6 +8,5 @@ main:
      url: /_pages/gallery
    # - title: "Sitemap"
     # url: sitemap/
-
- - title: "使用電力状況"
-  url: /_pages/electricity
+    - title: "使用電力状況"
+      url: /_pages/electricity
