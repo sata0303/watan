@@ -6,6 +6,7 @@ author_profile: true
 
 Chart.jsを使ってみたかったので、例として電気代の推移をグラフ化してみたい。
 ちなみに、2015年に国際連合で採択された「持続可能な開発目標（Sustainable Development Goals）」の7番目のゴールとして「エネルギーをみんなにそしてクリーンに」、13番目のゴールとして「気候変動に具体的な対策を」を掲げている。
+
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.1.4/Chart.min.js"></script>
 
 <canvas id="myChart" width="400" height="400"></canvas>
