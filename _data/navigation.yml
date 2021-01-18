@@ -5,7 +5,7 @@ main:
    # - title: "Archive"
    #  url: collection-archive/
    - title: "Gallery"
-     url: /_pages/gallery
-   # - title: "Sitemap"
-    # url: sitemap/
+     url: /_pages/gallery/ 
+   - title: "電力使用状況"
+     url: /_pages/electricity/
  
