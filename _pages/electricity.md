@@ -23,3 +23,8 @@ Chart.jsを使ってみたかったので、例として電気代の推移をグ
     data: data, // データ
     options: {}}) // オプション
 </script>
+
+
+
+*参考：東京大学の電力使用状況　http://ep-monitor.adm.u-tokyo.ac.jp/campus/denryoku
+（2021年1月18日アクセス）
