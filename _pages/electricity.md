@@ -55,6 +55,8 @@ var ex_chart = new Chart(ctx, {
 });
 </script>
 
-*参考：東京大学の電力使用状況
-http://ep-monitor.adm.u-tokyo.ac.jp/campus/denryoku
+<br><br><br>
+*参考
+<a href="http://ep-monitor.adm.u-tokyo.ac.jp/campus/denryoku">東京大学の電力使用状況</a><br> 
 （2021年1月18日アクセス）
+*余裕があればガス代もそのうち。
