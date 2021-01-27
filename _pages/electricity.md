@@ -20,15 +20,27 @@ Chart.jsを使ってみたかったので、例として電気代の推移をグ
 var ctx = document.getElementById('ex_chart');
 
 var data = {
-    labels: ["1月", "2月", "3月", "4月", "5月"],
+    labels: ["11月", "12月", "1月", "2月", "3月"],
     datasets: [{
-        label: 'プリンター販売台数',
+        label: '電気料金',
         data: [880, 740, 900, 520, 930],
-        borderColor: 'rgba(255, 100, 100, 1)'
+        borderColor: 'rgba(255, 100, 100, 1)',
+        lineTension: 0,
+        fill: false,
+        borderWidth: 3
     }]
 };
 
-var options = {};
+var options = {
+    scales: {
+        yAxes: [{
+            ticks: {
+                min: 300
+                //beginAtZero: true
+            }
+        }]
+    }
+};
 
 var ex_chart = new Chart(ctx, {
     type: 'line',
