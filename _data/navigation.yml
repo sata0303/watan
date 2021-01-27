@@ -6,6 +6,8 @@ main:
    #  url: collection-archive/
    - title: "Gallery"
      url: /_pages/gallery/ 
+     title: "Library"
+     url: /_pages/library/ 
    - title: "電力使用状況"
      url: /_pages/electricity/
  
