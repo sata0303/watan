@@ -39,10 +39,6 @@ var options = {
                 userCallback: function(tick) {
                     return tick.toString() + '円';
                 }
-            },
-            scaleLabel: {
-                display: true,
-                labelString: '料金'
             }
         }]
     },
