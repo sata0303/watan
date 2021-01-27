@@ -33,12 +33,28 @@ var data = {
 
 var options = {
     scales: {
+        xAxes: [{
+            scaleLabel: {
+                display: true,
+                labelString: '月'
+            }
+        }],
         yAxes: [{
             ticks: {
-                min: 300
-                //beginAtZero: true
+                min: 300,
+                userCallback: function(tick) {
+                    return tick.toString() + '円';
+                }
+            },
+            scaleLabel: {
+                display: true,
+                labelString: '料金'
             }
         }]
+    },
+    title: {
+        display: true,
+        text: '電気料金'
     }
 };
 
