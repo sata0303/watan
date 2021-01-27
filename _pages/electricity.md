@@ -23,7 +23,7 @@ var data = {
     labels: ["11月", "12月", "1月", "2月", "3月"],
     datasets: [{
         label: '電気料金',
-       data: [880, 740, 900, 520, 930],
+       data: [2465, 1731, 1808, 2339, 2000],
         borderColor: 'rgba(255, 100, 100, 1)',
         lineTension: 0,
         fill: false,
