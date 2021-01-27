@@ -35,7 +35,7 @@ var options = {
     scales: {
         yAxes: [{
             ticks: {
-                min: 300,
+                min: 1200,
                 userCallback: function(tick) {
                     return tick.toString() + '円';
                 }
