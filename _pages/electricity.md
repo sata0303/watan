@@ -33,12 +33,6 @@ var data = {
 
 var options = {
     scales: {
-        xAxes: [{
-            scaleLabel: {
-                display: true,
-                labelString: '月'
-            }
-        }],
         yAxes: [{
             ticks: {
                 min: 300,
