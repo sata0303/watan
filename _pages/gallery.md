@@ -1,7 +1,7 @@
 ---
 
 layout: single
-author_profile: true
+author_profile: false
 title: Gallery
 toc: true
 toc_label: Location
