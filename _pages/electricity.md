@@ -4,8 +4,8 @@ title: 電力使用状況（試行）
 author_profile: false
 ---
 
-Chart.jsを使ってみたかったので、例として電気代の推移をグラフ化してみたい。
-ちなみに、2015年に国際連合で採択された「持続可能な開発目標（Sustainable Development Goals）」は7番目のゴールとして「エネルギーをみんなにそしてクリーンに」、13番目のゴールとして「気候変動に具体的な対策を」を掲げている。
+Chart.jsを使ってみたかったので、例として電気代の推移をグラフ化してみたい。<br> 
+ちなみに、2015年に国際連合で採択された「持続可能な開発目標（Sustainable Development Goals、いわゆるSDGs）」は7番目のゴールとして「エネルギーをみんなにそしてクリーンに」、13番目のゴールとして「気候変動に具体的な対策を」を掲げている。一人暮らしとはいえ、見える化を進めるのは節約の意味でも意義があると考える。
 
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.min.js"></script>
