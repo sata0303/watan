@@ -1,7 +1,7 @@
 ---
 layout: single
 title: 電力使用状況（試行）
-author_profile: true
+author_profile: false
 ---
 
 Chart.jsを使ってみたかったので、例として電気代の推移をグラフ化してみたい。
