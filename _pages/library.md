@@ -7,8 +7,9 @@ author_profile: false
 BibTeXを用いて文献リストを作成する。買い足すたびにbibファイルに追加していき、PDFを生成する。
 
 
-## 新しく買った書籍（数ヶ月前後）
+## 新しく買った書籍
 
+<i class="far fa-file-pdf"></i>
 
 ## 所有している本
 ### 洋書
