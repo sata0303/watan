@@ -54,7 +54,8 @@ var ex_chart = new Chart(ctx, {
     options: options
 });
 </script>
-
+<br>
+<i class="fas fa-file-csv"></i>  electricity.csv<br>
 <br><br>
 *参考
 <a href="http://ep-monitor.adm.u-tokyo.ac.jp/campus/denryoku">東京大学の電力使用状況</a><br> 
