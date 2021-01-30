@@ -1,5 +1,6 @@
 ---
 layout: single
+  class: wide
 title: LaTeXについてのメモ
 author_profile: false
 permalink: false
@@ -11,7 +12,7 @@ tags:
 <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
 <script>hljs.initHighlightingOnLoad();</script>
 
-## プリアンブル　（\documentclass{...}から\begin{document}の間）
+## プリアンブル（\documentclass{...}から\begin{document}の間）
 
 <pre>
  <code>
@@ -23,13 +24,13 @@ tags:
 \usepackage[bottom=35truemm,left=30truemm,right=20truemm]{geometry}　%余白の設定
 \usepackage{graphicx}  %図の挿入
 \usepackage{natbib}　%引用のためのパッケージ
-\usepackage{epigraph}  %%エピグラフの挿入
+\usepackage{epigraph}  %エピグラフの挿入
 \setlength{\epigraphwidth}{.6\textwidth}
 \setlength{\epigraphrule}{0pt}
 \usepackage{multirow}
 \usepackage{diagbox}
 \usepackage[hyphens]{url}
-\usepackage{pxrubrica} %%圏点
+\usepackage{pxrubrica} %圏点
 
 \usepackage{type1ec} %ロシア語入力のため
 \usepackage[OT2,T1]{fontenc}	% ロシア語入力のためのおまじない
