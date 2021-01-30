@@ -26,7 +26,7 @@ feature_row:
   
   - image_path: /assets/images/IMG_20180908_124028.jpg
     title: "Others"
-    excerpts: "語学、プログラミングなどについてのメモ。"
+    excerpt: "語学、プログラミングなどについてのメモ。"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -37,7 +37,7 @@ feature_row2:
   - image_path: /assets/images/IMG_20190305_105904.jpg
     alt: "placeholder image 2"
     title: "サイトマップ"
-    excerpts: "このサイトのサイトマップ。"
+    excerpt: "このサイトのサイトマップ。"
     url: "#test-link"
     btn_label: "Open"
     btn_class: "btn--primary"
