@@ -21,4 +21,4 @@ BibTeXを用いて文献リストを作成する。買い足すたびにbibフ�
 <i class="far fa-file-alt"></i>  和書.bib
 
 
-<a href= "xxxx.html" >同じウインドウで開くリンク</a>
+
