@@ -1,5 +1,6 @@
 ---
 layout: single
+classes: wide
 title: 電力使用状況（試行）
 author_profile: false
 ---
