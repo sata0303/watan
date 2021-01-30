@@ -21,7 +21,7 @@ hljs.initHighlightingOnLoad();
 ・TeX Live のインストール<br>
 ・VSCode のインストール<br>
 ・VSCode の拡張機能のインストール<br>
-・latexmk の設定
+・latexmk の設定<br>
 ・jecon.bst のダウンロード
 
 ## プリアンブル（\documentclass{...}から\begin{document}の間）
@@ -67,5 +67,9 @@ hljs.initHighlightingOnLoad();
 </code>
 </pre>
 </font>
+
+### キリル文字入力
+
+## 役に立った便利サイト
 
 
