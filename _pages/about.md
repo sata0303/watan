@@ -2,6 +2,7 @@
 title: About
 layout: single
 author_profile: true
+classes: wide
 header:
   overlay_image: /assets/images/IMG_20190816_130702.jpg
   caption: "Uzbekistan, 2019."
