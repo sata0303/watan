@@ -1,6 +1,6 @@
 ---
 layout: single
-  classes: wide
+classes: wide
 title: LaTeXについてのメモ
 author_profile: false
 permalink: false
