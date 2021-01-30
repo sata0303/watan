@@ -40,7 +40,7 @@ htmlしか知らなかったけど、今では色々ありすぎてよくわか�
 ## 管理人について
 政治（国際政治、比較政治）を勉強している大学生。好きなものはかつやのカツ丼。嫌いなものはきゅうりと海の生き物。趣味は博物館巡りと深夜の散歩。<br><br>
 
-環境<br>　
+環境<br>
 Dell Inspiron 3881 / Windows 10 & Ubuntu <br>
 HUAWEI Matebook X / Windows 10 <br>
 OPPO RenoA  <br>
