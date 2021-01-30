@@ -7,7 +7,7 @@ permalink: false
 tags:
 - LaTeX
 ---
-<link rel="stylesheet" href="../default.css">
+<link rel="stylesheet" href="../vs2015.css">
 <script src="../highlight.pack.js"></script>
 <script>
 hljs.initHighlightingOnLoad();
