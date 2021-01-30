@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: splash
 classes: wide
 sidebar: false
 title: LaTeXについてのメモ
