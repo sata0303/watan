@@ -1,5 +1,6 @@
 ---
 layout: single
+title: 新しく買った書籍
 author_profile: false
 ---
 
