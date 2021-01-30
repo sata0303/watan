@@ -7,8 +7,8 @@ permalink: false
 tags:
 - LaTeX
 ---
-<link rel="stylesheet" href="http://wwww.watan.tokyo/default.css">
-<script src="http://www.watan.tokyo/highlight.pack.js"></script>
+<link rel="stylesheet" href="default.css">
+<script src="highlight.pack.js"></script>
 <script>
 hljs.initHighlightingOnLoad();
 </script>
