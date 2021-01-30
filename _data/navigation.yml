@@ -2,8 +2,8 @@
 main:
    - title: "About"
      url: about/
-   # - title: "Archive"
-   #  url: collection-archive/
+   - title: "Archives"
+     url: /_pages/archives/
    - title: "Gallery"
      url: /_pages/gallery/ 
    - title: "Library"
