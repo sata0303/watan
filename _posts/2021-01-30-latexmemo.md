@@ -7,15 +7,18 @@ permalink: false
 tags:
 - LaTeX
 ---
+<link rel="stylesheet" href="http://wwww.watan.tokyo/default.css">
+<script src="http://www.watan.tokyo/highlight.pack.js"></script>
+<script>
+hljs.initHighlightingOnLoad();
+</script>
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/vs.min.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
-<script>hljs.initHighlightingOnLoad();</script>
+
 
 ## プリアンブル（\documentclass{...}から\begin{document}の間）
 
 <pre>
- <code>
+ <code class="latex">
 \documentclass[dvipdfmx,12pt,oneside]{jsbook}　　%文書の形式（jsarticleなど）
 \setlength{\textwidth}{\fullwidth}  %本文の幅(textwidth)を全体の幅(=ヘッダ部の幅)にそろえる
 \addtolength{\fullwidth}{-5truemm}
