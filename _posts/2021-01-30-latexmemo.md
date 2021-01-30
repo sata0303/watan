@@ -16,12 +16,13 @@ hljs.initHighlightingOnLoad();
 
 
 ## 導入
-環境: Windows 10 / Dell Inspiron 3881</br>
+環境: Windows 10 / Dell Inspiron 3881<br>
 
-・TeX Live のインストール</br>
-・VSCode のインストール</br>
-・VSCode の拡張機能のインストール</br>
-・
+・TeX Live のインストール<br>
+・VSCode のインストール<br>
+・VSCode の拡張機能のインストール<br>
+・latexmk の設定
+・jecon.bst のダウンロード
 
 ## プリアンブル（\documentclass{...}から\begin{document}の間）
 <font size = "3">
