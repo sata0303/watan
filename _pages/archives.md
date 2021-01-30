@@ -10,6 +10,7 @@ feature_row:
   - image_path: /assets/images/IMG_20180907_083521.jpg
     alt: "placeholder image 1"
     title: "Politics of Russia and Post-Soviet States"
+    excerpt: "旧ソ連諸国の政治に関するメモ、小ネタ。"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -17,6 +18,7 @@ feature_row:
     
   - image_path: /assets/images/IMG_20190814_114636.jpg
     title: "Diary"
+    excerpt: "日常生活で思ったこと、日記。"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -24,6 +26,7 @@ feature_row:
   
   - image_path: /assets/images/IMG_20180908_124028.jpg
     title: "Others"
+    excerpts: "語学、プログラミングなどについてのメモ。"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -33,9 +36,10 @@ feature_row:
 feature_row2:
   - image_path: /assets/images/IMG_20190305_105904.jpg
     alt: "placeholder image 2"
-    title: "Memorandum"
+    title: "サイトマップ"
+    excerpts: "このサイトのサイトマップ。"
     url: "#test-link"
-    btn_label: "Read More"
+    btn_label: "Open"
     btn_class: "btn--primary"
 
 ---
