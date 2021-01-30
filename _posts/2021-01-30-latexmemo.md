@@ -68,6 +68,7 @@ hljs.initHighlightingOnLoad();
 </pre>
 </font>
 
+## ディレクトリ
 ### キリル文字入力
 
 ## 役に立った便利サイト
