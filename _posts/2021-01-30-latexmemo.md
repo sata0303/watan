@@ -17,7 +17,7 @@ hljs.initHighlightingOnLoad();
 
 
 ## プリアンブル（\documentclass{...}から\begin{document}の間）
-<font size = "5">
+<font size = "3">
 <pre>
  <code class="latex">
 \documentclass[dvipdfmx,12pt,oneside]{jsbook}　　%文書の形式（jsarticleなど）
