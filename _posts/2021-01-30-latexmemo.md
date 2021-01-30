@@ -14,7 +14,7 @@ tags:
 hljs.initHighlightingOnLoad();
 </script>
 
-# LaTeXについてのメモ
+
 ## 導入
 環境: Windows 10 / Dell Inspiron 3881<br>
 
