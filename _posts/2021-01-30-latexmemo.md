@@ -13,6 +13,8 @@ tags:
 
 ## プリアンブル　（\documentclass{...}から\begin{document}の間）
 
+<pre>
+ <code>
 \documentclass[dvipdfmx,12pt,oneside]{jsbook}　　%文書の形式（jsarticleなど）
 \setlength{\textwidth}{\fullwidth}  %本文の幅(textwidth)を全体の幅(=ヘッダ部の幅)にそろえる
 \addtolength{\fullwidth}{-5truemm}
@@ -32,6 +34,7 @@ tags:
 \usepackage{type1ec} %ロシア語入力のため
 \usepackage[OT2,T1]{fontenc}	% ロシア語入力のためのおまじない
 \usepackage[japanese,russian]{babel}　%ロシア語入力のため
-
+</code>
+</pre>
 
 ## 本文
