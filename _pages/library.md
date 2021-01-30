@@ -7,8 +7,8 @@ BibTeXを用いて文献リストを作成する。買い足すたびにbibフ�
 
 ## 新しく買った書籍
 
-<i class="far fa-file-pdf"></i>  <a href = "/bib/new.pdf" >new.pdf</a><br>
-<i class="far fa-file-alt"></i>  <a href = "/bib/new.bib" >new.bib</a>
+<i class="far fa-file-pdf"></i>  <a href = "/_pages/bib/new.pdf" >new.pdf</a><br>
+<i class="far fa-file-alt"></i>  <a href = "/_pages/bib/new.bib" >new.bib</a>
 
 
 ## 所有している本
