@@ -11,12 +11,12 @@ BibTeXを用いて文献リストを作成する。買い足すたびにbibフ�
 <i class="far fa-file-alt"></i>  <a href = "/_pages/bib/new.bib" >new.bib</a>
 
 
-## 所有している本
+## 持っている本
 ### 洋書（専門書）
 <i class="far fa-file-pdf"></i>  foreign.pdf<br>
 <i class="far fa-file-alt"></i>  foreign.bib
 
-### 和書（専門書、実用書、漫画、小説含）
+### 和書
 <i class="far fa-file-pdf"></i>  和書.pdf<br>
 <i class="far fa-file-alt"></i>  和書.bib
 
