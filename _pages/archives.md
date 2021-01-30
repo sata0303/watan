@@ -1,7 +1,6 @@
 ---
 title: "アーカイブ"
 layout: splash
-permalink: /archives/
 date: 2016-03-23T11:48:41-04:00
 header:
   overlay_color: "#000"
