@@ -44,3 +44,20 @@ hljs.initHighlightingOnLoad();
 </font>
 
 ## 本文
+<font size = "3">
+<pre>
+ <code class="latex">
+\citep{bibkey}
+\citet{bibkey}
+
+\nocite{}　%参考文献一覧
+\kenten{sentence}  %圏点を付す
+\bibliographystyle{}  %引用スタイル（.bstの指定）
+\biblipgraphy{}  %.bibの指定
+
+
+</code>
+</pre>
+</font>
+
+
