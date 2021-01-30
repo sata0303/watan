@@ -1,11 +1,8 @@
 ---
 title: "アーカイブ"
 layout: splash
-permalink: /archives/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
   overlay_image: /assets/images/IMG_20190816_130702.jpg
   caption: "Uzbekistan, 2019."
   
