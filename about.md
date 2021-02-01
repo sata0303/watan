@@ -49,7 +49,7 @@ htmlしか知らなかったけど、今では色々ありすぎてよくわか�
 <li> Twitter: sata0303</li>
 </ul>
 
-環境<br>
+<i class="fas fa-laptop-house"></i> 環境<br>
 <ul>
 <li>Dell Inspiron 3881 / Windows 10 & Ubuntu </li>
 <li>HUAWEI Matebook X / Windows 10 </li>
