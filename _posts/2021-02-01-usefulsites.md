@@ -2,7 +2,7 @@
 layout: single
 classes: wide
 sidebar: false
-title: 暇つぶしになる便利・有益サイト
+title: 暇つぶしになる便利・有能サイト
 author_profile: false
 permalink: false
 show_date: true
@@ -22,6 +22,10 @@ tags:
 ### 欧米諸国
 
 ### ロシア・中央アジア・ カフカス
+Eurasianet.org（）
+Radio Free Asia / Радио Свободы（アメリカ政府系） 
+
+
 ## 調べもの
 RESAS <br>
 e-Stat （政府統計の総合窓口）<br>
