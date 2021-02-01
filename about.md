@@ -4,6 +4,9 @@ layout: single
 author_profile: false
 toc: true
 toc_label: 目次
+header:
+  overlay_image: /assets/images/IMG_20190816_130702.jpg
+  caption: "Uzbekistan, 2019."
 ---
 
 ## サイト開設の経緯
