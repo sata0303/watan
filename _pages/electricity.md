@@ -3,6 +3,9 @@ layout: single
 classes: wide
 title: 電力使用状況（試行）
 author_profile: false
+header:
+  overlay_image: /assets/images/IMG_20190816_130702.jpg
+  caption: "Uzbekistan, 2019."
 ---
 
 Chart.jsを使ってみたかったので、例として電気代の推移をグラフ化してみたい。<br> 
