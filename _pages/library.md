@@ -2,6 +2,9 @@
 layout: single
 title: Library
 author_profile: false
+header:
+  overlay_image: /assets/images/IMG_20190816_130702.jpg
+  caption: "Uzbekistan, 2019."
 ---
 BibTeXを用いて文献リストを作成する。買い足すたびにbibファイルに追加していき、PDFを生成する。
 
