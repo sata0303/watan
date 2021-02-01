@@ -43,7 +43,7 @@ htmlしか知らなかったけど、今では色々ありすぎてよくわか�
 ## 管理人
 政治（国際政治、比較政治）を勉強している大学生。嫌いなものはきゅうりと海の生き物。好きなキリル文字はЙ。趣味は博物館巡りと深夜の散歩。<br><br>
 
-<i class="far fa-address-card"></i>コンタクト<br>
+<i class="far fa-address-card"></i> コンタクト<br>
 <ul>
 <li> Mail: info@watan.tokyo</li>
 <li> Twitter: sata0303</li>
