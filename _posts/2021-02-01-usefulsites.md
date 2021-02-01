@@ -6,6 +6,7 @@ title: 暇つぶしになる便利・有能サイト
 author_profile: false
 permalink: false
 show_date: true
+toc_label: 目次
 toc: true
 tags:
 - Others
@@ -22,13 +23,14 @@ tags:
 ### 欧米諸国
 
 ### ロシア・中央アジア・ カフカス
-Eurasianet.org（）
+Eurasianet.org <br>
 Radio Free Asia / Радио Свободы（アメリカ政府系） 
 
 
 ## 調べもの
 RESAS（地域経済分析システム） <br>
 e-Stat （政府統計の総合窓口）<br>
+アジア経済研究所
 国立国会図書館リサーチ・ナビ<br>
 国立国会図書館レファレンス協同データベース<br>
 東京都立図書館（レファレンスサービス）<br>
