@@ -1,9 +1,9 @@
 # main links
 main:
+   - title: "Archive"
+     url: /_pages/archives/
    - title: "About"
      url: about/
-   - title: "Archives"
-     url: /_pages/archives/
    - title: "Gallery"
      url: /_pages/gallery/ 
    - title: "Library"
