@@ -55,6 +55,7 @@ htmlしか知らなかったけど、今では色々ありすぎてよくわか�
 <li>HUAWEI Matebook X / Windows 10 </li>
 <li>OPPO RenoA  </li>
 <li>HUAWEI Mediapad M3 Lite 10 wp</li>
+<li>Canon MF222dw</li>
 </ul>
 
 ## 註
