@@ -11,7 +11,8 @@ BibTeXを用いて文献リストを作成する。買い足すたびにbibフ�
 ## 新しく買った書籍
 
 <i class="far fa-file-pdf"></i>  <a href = "/_pages/bib/new.pdf" >new.pdf</a>　　2021年1月30日<br>
-<i class="far fa-file-alt"></i>  <a href = "/_pages/bib/new.bib" >new.bib</a>　　2021年1月30日
+<i class="far fa-file-alt"></i>  <a href = "/_pages/bib/new.bib" >new.bib</a>　　2021年1月30日<br>
+<i class="fas fa-cloud-download-alt"></i>  <a href = "https://cloud.mail.ru/public/jjxc/6JqxSXsjw" >new.pdf</a>　　2021年2月3日<br>
 
 
 ## 持っている本
