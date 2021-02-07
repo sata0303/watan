@@ -31,7 +31,9 @@ Radio Free Asia / Радио Свободы（アメリカ政府系）
 <i class="fas fa-bullhorn"></i> 統計・世論調査 <br>
 RESAS（地域経済分析システム） <br>
 e-Stat （政府統計の総合窓口）<br>
-アジア経済研究所
+
+<i class="fas fa-concierge-bell"></i>  サービス<br>
+アジア経済研究所<br>
 国立国会図書館リサーチ・ナビ<br>
 国立国会図書館レファレンス協同データベース<br>
 東京都立図書館（レファレンスサービス）<br><br>
