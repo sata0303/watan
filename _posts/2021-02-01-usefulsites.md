@@ -38,7 +38,12 @@ e-Stat （政府統計の総合窓口）<br>
 国立国会図書館レファレンス協同データベース<br>
 東京都立図書館（レファレンスサービス）<br><br>
 
-
+<i class="fas fa-search"></i> 検索エンジン <br>
+Yandex <br>
+Bing<br>
+DuckDuckGo<br>
+Baidu <br>
+Yahoo (Taiwan / Hong Kong)<br>
 ## 語学
 
 ## OCW
