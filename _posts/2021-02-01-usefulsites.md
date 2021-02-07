@@ -59,7 +59,7 @@ UTokyo OCW（学術俯瞰講義など） <br>
 <i class="fas fa-video"></i>  ライブカメラ <br>
 Яндекс Карты（ロシア版ストリートビュー）<br>
 
-<i class="fas fa-tv"></i> 太っ腹24時間ストリーミング配信
+<i class="fas fa-tv"></i> 太っ腹24時間ストリーミング配信<br>
 Яндекс Эфир <br>
 Первый канал <br>
 EURONEWS  <br>
