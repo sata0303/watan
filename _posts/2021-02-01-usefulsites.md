@@ -28,6 +28,7 @@ Radio Free Asia / Радио Свободы（アメリカ政府系）
 
 
 ## 調べもの
+<i class="fas fa-bullhorn"></i> 統計・世論調査 <br>
 RESAS（地域経済分析システム） <br>
 e-Stat （政府統計の総合窓口）<br>
 アジア経済研究所
