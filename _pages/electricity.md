@@ -61,10 +61,9 @@ var ex_chart = new Chart(ctx, {
 <br>
 <i class="fas fa-file-csv"></i>  electricity.csv<br>
 <br><br>
-* 追記（2021年2月）
+*追記（2021年2月）
 先日、スマートメーターに対応したこと、紙での料金表を廃止するという通知がきた。便利になったと思いながらアクセスしてみたものの、UIがなかなか使いにくい。
-
-<br><br>
+<br>
 *参考
 <a href="http://ep-monitor.adm.u-tokyo.ac.jp/campus/denryoku">東京大学の電力使用状況</a><br> 
 （2021年1月18日アクセス）<br>
