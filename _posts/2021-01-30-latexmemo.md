@@ -62,15 +62,14 @@ hljs.initHighlightingOnLoad();
 \kenten{sentence}  %圏点を付す
 \bibliographystyle{}  %引用スタイル（.bstの指定）
 \biblipgraphy{}  %.bibの指定
-
-
-</code>
+ </code>
 </pre>
 </font>
-
+a
 ### ディレクトリ
 ### キリル文字入力
 
 ## 役に立った便利サイト
-
+## Sample
+<i class="fas fa-file-archive"></i>  <a href="https://cloud.mail.ru/public/r8K8/8ZVD89zQY">sample.zip</a>
 
