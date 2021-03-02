@@ -1,6 +1,5 @@
 ---
 layout: single
-classes: wide
 sidebar: false
 title: 暇つぶしになる便利・有能サイト
 author_profile: false
