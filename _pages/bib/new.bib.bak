@@ -16,7 +16,7 @@
 }
 
 @Book{,
-  editor    = {山内, 昌之},
+  editor    = {山内, 昌之 and 細谷, 雄一},
   publisher = {中公新書},
   title     = {日本近現代史講義-成功と失敗の歴史に学ぶ},
   year      = {2019},
@@ -25,7 +25,7 @@
 
 @Book{,
   author    = {末近, 浩太},
-  publisher = {ちくま新書},
+  publisher = {筑摩書房},
   title     = {中東政治入門},
   year      = {2020},
   yomi      = {すえちか},
@@ -37,14 +37,6 @@
   title     = {戦争とは何か-国際政治学の挑戦},
   year      = {2020},
   yomi      = {たご},
-}
-
-@Book{,
-  author    = {岡, 義武},
-  publisher = {岩波現代文庫},
-  title     = {国際政治史},
-  year      = {1955},
-  yomi      = {おか},
 }
 
 @Comment{jabref-meta: databaseType:bibtex;}

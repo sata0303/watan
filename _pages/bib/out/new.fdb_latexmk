@@ -1,0 +1,41 @@
+# Fdb version 3
+["bibtex out/new"] 1613527271 "out/new.aux" "out/new.bbl" "out/new" 1613527271
+  "./jecon.bst" 1611974962 125545 0772d5d03c868a8b7013ef23d9dee1a4 ""
+  "new.bib" 1613527257 1186 c972abd102eab4dcc2e14f70db087372 ""
+  "out/new.aux" 1613527271 76 5fbb5353c20227bac015bdf3de170b5d "latex"
+  (generated)
+  "out/new.blg"
+  "out/new.bbl"
+["dvipdf"] 0 "out/new.dvi" "out/new.pdf" "out/new" 0
+  "out/new.dvi" 0 -1 0 "latex"
+  (generated)
+  "out/new.pdf"
+["latex"] 1613527270 "c:/Users/taich/OneDrive/Documents/GitHub/watan/_pages/bib/new.tex" "out/new.dvi" "new" 1613527270
+  "c:/Users/taich/OneDrive/Documents/GitHub/watan/_pages/bib/new.tex" 1611975726 227 195053c56193cf62be38db49fe08e971 ""
+  "c:/texlive/2020/texmf-dist/fonts/map/fontname/texfonts.map" 1611211029 3524 cb3e574dea2d1052e39280babc910dc8 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/jis/jis.tfm" 1611216020 468 53f854284f6afa6c36aaa2d1090ecc12 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/ptex-fonts/standard/tmin10.tfm" 1611216020 856 39c171483fe1bb7d0e1368980c0c205b ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1611209136 1524 4414a8315f39513458b80dfc63bff03a ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm" 1611209136 1512 f21f83efb36853c0b70002322c1ab3ad ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1611209136 1520 eccf95517727cb11801f4f1aee3a21b4 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1611209136 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1611209136 1292 296a67155bdbfc32aa9c636f21e91433 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1611209136 1300 b62933e007d01cfd073f79b963c01526 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1611209136 1292 21c1c5bfeaebccffdb478fd231a0997d ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1611209136 1124 6c73e740cf17375f03eec0ee63599741 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm" 1611209136 1116 933a60c408fc0a863a92debe84b2d294 ""
+  "c:/texlive/2020/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm" 1611209136 1120 8b7d695260f3cff42e636090a8002094 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-dvips.def" 1611212534 32892 ce28b8aa3b6e03a4a298828d70b80f87 ""
+  "c:/texlive/2020/texmf-dist/tex/latex/natbib/natbib.sty" 1611214408 45456 1c8843383c0bd05870c45fa0ebea6cc2 ""
+  "c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jsarticle.cls" 1611212157 60810 4554ddf6e0b4ed9f3f486c72558ba459 ""
+  "c:/texlive/2020/texmf-dist/tex/platex/jsclasses/jslogo.sty" 1611212157 5585 8e4615c54073c390d14154b29cee89cb ""
+  "c:/texlive/2020/texmf-dist/web2c/texmf.cnf" 1611212440 39451 15a3ebee027466ecb89701aa91dfebaf ""
+  "c:/texlive/2020/texmf-var/web2c/eptex/platex.fmt" 1611219080 2624079 c09e7db7f2cef2dad917e88b5a5f4418 ""
+  "c:/texlive/2020/texmf.cnf" 1611218911 713 e69b156964470283e0530f5060668171 ""
+  "new.tex" 1611975726 227 195053c56193cf62be38db49fe08e971 ""
+  "out/new.aux" 1613527270 9 a94a2480d3289e625eea47cd1b285758 "latex"
+  "out/new.bbl" 0 -1 0 "bibtex out/new"
+  (generated)
+  "out/new.log"
+  "out/new.dvi"
+  "out/new.aux"
