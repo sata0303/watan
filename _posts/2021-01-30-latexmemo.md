@@ -67,7 +67,7 @@ hljs.initHighlightingOnLoad();
 </font>
 a
 ### ディレクトリの例
-![代々木](C:\Users\taich\Documents\watan\assets\images\fig\latexdir.png)
+![代々木](https://www.watan.tokyo/assets/images/fig/latexdir.png)
 
 ## 役に立った便利サイト
 ## Sample
