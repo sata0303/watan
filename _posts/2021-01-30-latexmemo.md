@@ -66,8 +66,8 @@ hljs.initHighlightingOnLoad();
 </pre>
 </font>
 a
-### ディレクトリ
-### キリル文字入力
+### ディレクトリの例
+![代々木](assets\images\fig\latexdir.png)
 
 ## 役に立った便利サイト
 ## Sample
