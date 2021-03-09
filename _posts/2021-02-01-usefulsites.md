@@ -30,7 +30,7 @@ tags:
 *中国国際放送局　<i class="fas fa-link"></i>  <a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
 国家新聞出版広播総局管轄の下、44ヶ国語で放送している。　<br>
 
-South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
+South China Morning Post　<i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
 香港で発行されている英字新聞。
 
 蘋果日報（Apple Daily）　<i class="fas fa-link"></i>  <a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/engnews/hotpick/</a> <br>
@@ -47,9 +47,12 @@ South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.
 
 - カザフスタン
 
-Nur.kz <br>
-Tengri News <br>
-Казахстанская Правда <br>
+*Nur.kz　<i class="fas fa-link"></i><br>  <a href="https://www.nur.kz/">https://www.nur.kz/</a> <br>
+カザフスタン版Yahooニュースみたいなサイト。 <br>
+
+*Tengri News　<i class="fas fa-link"></i>  <a href="https://tengrinews.kz/">https://tengrinews.kz/</a> <br>
+
+*Казахстанская Правда　<i class="fas fa-link"></i>  <a href="https://www.kazpravda.kz/">https://www.kazpravda.kz/</a> <br>
 
 ### ロシア・中央アジア・ カフカス（欧米系メディア）
 Eurasianet.org　<i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a> <br>
