@@ -14,8 +14,28 @@ tags:
 
 ## ニュース / 時事（テキスト）
 ### 日本
+朝日新聞　<br>
+読売新聞　<br>
+毎日新聞　<br>
+日本経済新聞　<br>
+産経新聞　<br>
 
 ### 中国
+新華網　<a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
+中国の国営通信社。<br>
+
+人民網　<a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
+中国共産党の機関紙。 <br>
+
+中国国際放送局　<a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
+国家新聞出版広播総局管轄の下、44ヶ国語で放送している。　<br>
+
+South China Morning Post <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
+香港で発行されている英字新聞。
+
+
+蘋果日報（Apple Daily）<a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/engnews/hotpick/</a> <br>
+中国政府には批判的な態度をとる香港の新聞。
 
 ### アジア（韓国、ASEAN諸国等）
 
