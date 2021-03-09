@@ -21,29 +21,39 @@ tags:
 産経新聞　<br>
 
 ### 中国
-新華網　<a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
+新華網　<i class="fas fa-link"></i>  <a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
 中国の国営通信社。<br>
 
-人民網　<a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
+人民網　<i class="fas fa-link"></i>  <a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
 中国共産党の機関紙。 <br>
 
-中国国際放送局　<a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
+中国国際放送局　<i class="fas fa-link"></i>  <a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
 国家新聞出版広播総局管轄の下、44ヶ国語で放送している。　<br>
 
-South China Morning Post <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
+South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
 香港で発行されている英字新聞。
 
-
-蘋果日報（Apple Daily）<a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/engnews/hotpick/</a> <br>
+蘋果日報（Apple Daily）　<i class="fas fa-link"></i>  <a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/engnews/hotpick/</a> <br>
 中国政府には批判的な態度をとる香港の新聞。
 
-### アジア（韓国、ASEAN諸国等）
+### ロシア・中央アジア・カフカス（現地メディア）
+- ロシア
+Известия <br>
+Правда <br>
+газета.ру <br>
+Коммерсант <br>
+независимая газета <br>
 
-### 欧米諸国
+- カザフスタン
+Nur.kz <br>
+Tengri News <br>
+Казахстанская Правда <br>
+### ロシア・中央アジア・ カフカス（欧米系メディア）
+Eurasianet.org　<i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a><br>
+南カフカス、中央アジアを扱うオンライン新聞サイト。コロンビア大学に拠点を置く。Google、the Open Society Foundations、the National Endowment for Democracy、Columbia University’s Saltzman Institute of War and Peace Studiesから資金援助を受けている。各国政府に対しては批判的な主張を展開している。<br>
 
-### ロシア・中央アジア・ カフカス
-Eurasianet.org <br>
-Radio Free Asia / Радио Свободы（アメリカ政府系） 
+Radio Free Europe / Радио Свободы（アメリカ政府系） <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
+自由な報道が制限されている国々の民主的価値観、制度を発展させ、人権状況を改善させることを目標として掲げている。23カ国、27言語で展開している（タジク語などマイナーな言語もカバーしている）。2020年の予算は1億2440万ドル。
 
 
 ## 調べもの
