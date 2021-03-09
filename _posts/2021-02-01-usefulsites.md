@@ -21,7 +21,7 @@ tags:
 産経新聞　<br>
 
 ### 中国
-*新華網　<i class="fas fa-link"></i>  <a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
+*新華網　<br> <i class="fas fa-link"></i>  <a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
 中国の国営通信社。<br>
 
 *人民網　<br> <i class="fas fa-link"></i>  <a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
@@ -30,10 +30,10 @@ tags:
 *中国国際放送局　<br> <i class="fas fa-link"></i>  <a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
 国家新聞出版広播総局管轄の下、44ヶ国語で放送している。　<br>
 
-South China Morning Post　<br> <i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
+*South China Morning Post　<br> <i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
 香港で発行されている英字新聞。
 
-蘋果日報（Apple Daily）<br> <i class="fas fa-link"></i>  <a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/engnews/hotpick/</a> <br>
+*蘋果日報（Apple Daily）<br> <i class="fas fa-link"></i>  <a href="https://hk.appledaily.com/engnews/hotpick/">https://hk.appledaily.com/</a> <br>
 中国政府には批判的な態度をとる香港の新聞。
 
 ### ロシア・中央アジア・カフカス（現地メディア）
@@ -55,10 +55,10 @@ South China Morning Post　<br> <i class="fas fa-link"></i>  <a href="https://ww
 *Казахстанская Правда <br> <i class="fas fa-link"></i>  <a href="https://www.kazpravda.kz/">https://www.kazpravda.kz/</a> <br>
 
 ### ロシア・中央アジア・ カフカス（欧米系メディア）
-Eurasianet.org <br> <i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a> <br>
+*Eurasianet.org <br> <i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a> <br>
 南カフカス、中央アジアを扱うオンライン新聞サイト。コロンビア大学に拠点を置く。Google、the Open Society Foundations、the National Endowment for Democracy、Columbia University’s Saltzman Institute of War and Peace Studiesから資金援助を受けている。各国政府に対しては批判的な主張を展開している。<br>
 
-Radio Free Europe / Радио Свободы（アメリカ政府系）<br>  <i class="fas fa-link"></i>  <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
+*Radio Free Europe / Радио Свободы（アメリカ政府系）<br>  <i class="fas fa-link"></i>  <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
 自由な報道が制限されている国々の民主的価値観、制度を発展させ、人権状況を改善させることを目標として掲げている。23カ国、27言語で展開している（タジク語などマイナーな言語もカバーしている）。2020年の予算は1億2440万ドル。
 
 
