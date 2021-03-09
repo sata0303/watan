@@ -38,6 +38,7 @@ South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.
 
 ### ロシア・中央アジア・カフカス（現地メディア）
 - ロシア　<br>
+
 Известия <br>
 Правда <br>
 газета.ру <br>
@@ -45,6 +46,7 @@ South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.
 независимая газета <br>
 
 - カザフスタン
+
 Nur.kz <br>
 Tengri News <br>
 Казахстанская Правда <br>
@@ -53,7 +55,7 @@ Tengri News <br>
 Eurasianet.org　<i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a> <br>
 南カフカス、中央アジアを扱うオンライン新聞サイト。コロンビア大学に拠点を置く。Google、the Open Society Foundations、the National Endowment for Democracy、Columbia University’s Saltzman Institute of War and Peace Studiesから資金援助を受けている。各国政府に対しては批判的な主張を展開している。<br>
 
-Radio Free Europe / Радио Свободы（アメリカ政府系） <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
+Radio Free Europe / Радио Свободы（アメリカ政府系） <i class="fas fa-link"></i>  <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
 自由な報道が制限されている国々の民主的価値観、制度を発展させ、人権状況を改善させることを目標として掲げている。23カ国、27言語で展開している（タジク語などマイナーな言語もカバーしている）。2020年の予算は1億2440万ドル。
 
 
@@ -85,18 +87,6 @@ UTokyo OCW（学術俯瞰講義など） <br>
 
 ## 高校レベルの教養
 
-## 家でも海外旅行気分になれるサイト
-<i class="fas fa-video"></i>  ライブカメラ <br>
-Яндекс Карты（ロシア版ストリートビュー）<br>
-
-<i class="fas fa-tv"></i> 太っ腹24時間ストリーミング配信<br>
-Яндекс Эфир <br>
-Первый канал <br>
-EURONEWS  <br>
-QAZAQSTAN TV <br>
-Мир 24  <br>
-朝鮮中央テレビ <br>
-中国国営放送 <br>
 
 ## 作成
 ### drawio
