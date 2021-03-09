@@ -37,7 +37,7 @@ South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.
 中国政府には批判的な態度をとる香港の新聞。
 
 ### ロシア・中央アジア・カフカス（現地メディア）
-- ロシア
+- ロシア　<br>
 Известия <br>
 Правда <br>
 газета.ру <br>
@@ -48,8 +48,9 @@ South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.
 Nur.kz <br>
 Tengri News <br>
 Казахстанская Правда <br>
+
 ### ロシア・中央アジア・ カフカス（欧米系メディア）
-Eurasianet.org　<i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a><br>
+Eurasianet.org　<i class="fas fa-link"></i>  <a href="https://eurasianet.org/">https://eurasianet.org/</a> <br>
 南カフカス、中央アジアを扱うオンライン新聞サイト。コロンビア大学に拠点を置く。Google、the Open Society Foundations、the National Endowment for Democracy、Columbia University’s Saltzman Institute of War and Peace Studiesから資金援助を受けている。各国政府に対しては批判的な主張を展開している。<br>
 
 Radio Free Europe / Радио Свободы（アメリカ政府系） <a href="https://www.rferl.org/">https://www.rferl.org/</a><br>
