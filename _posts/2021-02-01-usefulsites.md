@@ -21,13 +21,13 @@ tags:
 産経新聞　<br>
 
 ### 中国
-新華網　<i class="fas fa-link"></i>  <a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
+*新華網　<i class="fas fa-link"></i>  <a href="http://jp.xinhuanet.com/">http://jp.xinhuanet.com/</a> <br>
 中国の国営通信社。<br>
 
-人民網　<i class="fas fa-link"></i>  <a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
+*人民網　<i class="fas fa-link"></i>  <a href="http://j.people.com.cn/">http://j.people.com.cn/</a> <br>
 中国共産党の機関紙。 <br>
 
-中国国際放送局　<i class="fas fa-link"></i>  <a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
+*中国国際放送局　<i class="fas fa-link"></i>  <a href="http://japanese.cri.cn/">http://japanese.cri.cn/</a> <br>
 国家新聞出版広播総局管轄の下、44ヶ国語で放送している。　<br>
 
 South China Morning Post <i class="fas fa-link"></i>  <a href="https://www.scmp.com/">https://www.scmp.com/</a> <br>
