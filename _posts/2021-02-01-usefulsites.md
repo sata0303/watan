@@ -47,7 +47,7 @@ South China Morning Post　<i class="fas fa-link"></i>  <a href="https://www.scm
 
 - カザフスタン
 
-*Nur.kz　<i class="fas fa-link"></i><br>  <a href="https://www.nur.kz/">https://www.nur.kz/</a> <br>
+*Nur.kz  <i class="fas fa-link"></i><br>  <a href="https://www.nur.kz/">https://www.nur.kz/</a> <br>
 カザフスタン版Yahooニュースみたいなサイト。 <br>
 
 *Tengri News　<i class="fas fa-link"></i>  <a href="https://tengrinews.kz/">https://tengrinews.kz/</a> <br>
