@@ -62,33 +62,26 @@ Radio Free Europe / Радио Свободы（アメリカ政府系） <i clas
 自由な報道が制限されている国々の民主的価値観、制度を発展させ、人権状況を改善させることを目標として掲げている。23カ国、27言語で展開している（タジク語などマイナーな言語もカバーしている）。2020年の予算は1億2440万ドル。
 
 
-## 調べもの
-<i class="fas fa-bullhorn"></i> 統計・世論調査 <br>
+##  統計・世論調査 <br>
 RESAS（地域経済分析システム） <br>
 e-Stat （政府統計の総合窓口）<br>
 
-<i class="fas fa-concierge-bell"></i>  サービス<br>
+## サービス<br>
 アジア経済研究所<br>
 国立国会図書館リサーチ・ナビ<br>
 国立国会図書館レファレンス協同データベース<br>
 東京都立図書館（レファレンスサービス）<br><br>
 
-<i class="fas fa-search"></i> 検索エンジン <br>
+## 検索エンジン <br>
 Yandex <br>
 Bing<br>
 DuckDuckGo<br>
 Baidu <br>
 Yahoo (Taiwan / Hong Kong)<br>
 Sci-hub
+
 ## 語学
 
-## OCW
-Coursera <br>
-edX <br>
-UTokyo OCW（学術俯瞰講義など） <br>
-京都大学 OCW <br> 
-
-## 高校レベルの教養
 
 
 ## 作成
