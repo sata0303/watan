@@ -41,6 +41,14 @@ header:
 
 <a data-flickr-embed="true" data-header="true" href="https://www.flickr.com/photos/191793404@N08/50831182138/in/dateposted-public/" title="IMG20200303134938"><img src="https://live.staticflickr.com/65535/50831182138_cccb080c6c_k.jpg" width="1536" height="2048" alt="IMG20200303134938"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
+### 岐阜
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/191793404@N08/51018702726/in/dateposted-public/" title="IMG_20210309_092402"><img src="https://live.staticflickr.com/65535/51018702726_4c292d28a1_b.jpg" width="1024" height="952" alt="IMG_20210309_092402"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/191793404@N08/51017974263/in/dateposted-public/" title="IMG_20210309_092418"><img src="https://live.staticflickr.com/65535/51017974263_06f38cf6cf_b.jpg" width="1024" height="643" alt="IMG_20210309_092418"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" data-header="true" data-footer="true" href="https://www.flickr.com/photos/191793404@N08/51017974243/in/dateposted-public/" title="1615249412062"><img src="https://live.staticflickr.com/65535/51017974243_bd560a68fb_b.jpg" width="1024" height="768" alt="1615249412062"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
 ## ロシア
 ### Москва и Золотое Кольцо
 
