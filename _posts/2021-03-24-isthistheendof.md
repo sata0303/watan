@@ -1,7 +1,7 @@
 ---
 layout: single
 sidebar: false
-title: 【読書メモ】グローバル・サウス
+title: 【読書メモ】リベラルvs.力の政治
 author_profile: false
 permalink: false
 toc: false
