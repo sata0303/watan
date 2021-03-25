@@ -45,8 +45,6 @@ Munk Debates", House of Anansi Press.
 - EU加盟はウクライナといった貧しい欧州周辺国の市井の人々が望んでいること。
 - テロの数は減少している。世界の道徳の弧、歴史の弧はゆっくりと正義と自由に動いている。
 
-###
-
 ## 関連する文献
 - Fukuyama, F. (1989). The end of history?. The national interest, (16), 3-18.
 - Ikenberry, G. J. (2009). After Victory: Institutions, Strategic Restraint, and the Rebuilding of Order after Major Wars. In After Victory. Princeton University Press.
