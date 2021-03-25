@@ -31,3 +31,8 @@ Munk Debates", House of Anansi Press.
 
 ## Ch.2
 ### ファーガソン
+
+## 関連する文献
+- Fukuyama, F. (1989). The end of history?. The national interest, (16), 3-18.
+- Ikenberry, G. J. (2009). After Victory: Institutions, Strategic Restraint, and the Rebuilding of Order after Major Wars. In After Victory. Princeton University Press.
+- Ikenberry, G. J. (2018). The end of liberal international order?. International Affairs, 94(1), 7-23.
