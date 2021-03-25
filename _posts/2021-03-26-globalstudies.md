@@ -20,7 +20,7 @@ tags:
 - （７）ローカルと世界を結ぶ
 
 参考として、
-< a href="http://www.shd.chiba-u.jp/glblcrss/index.html">http://www.shd.chiba-u.jp/glblcrss/index.html</a>
+<a href="http://www.shd.chiba-u.jp/glblcrss/index.html">http://www.shd.chiba-u.jp/glblcrss/index.html</a>
 
 
 ## （４）について
