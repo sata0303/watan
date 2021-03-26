@@ -23,6 +23,6 @@ tags:
 ## 南米諸国連合（UNASUR）
 ### 基礎情報
 - Unión de Naciones Suramericanas/ Union of South American Nations
-- <h aref="https://www.mofa.go.jp/mofaj/area/latinamerica/kikan/unasur/gaiyo.html">日本外務省による説明</a>
+- <a href="https://www.mofa.go.jp/mofaj/area/latinamerica/kikan/unasur/gaiyo.html">日本外務省による説明</a>
 - 
 
