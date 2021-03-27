@@ -26,8 +26,7 @@ tags:
 - <a href="https://www.mofa.go.jp/mofaj/area/latinamerica/kikan/unasur/gaiyo.html">日本外務省による説明</a>
 - 
 
-## メモ
-
+## 関連文献のメモ
 ### Mares (2012)
 - Sovereinty（the ability of a government to decide how it will respond to international challenges and opportunities）とCooperation(Mutual adjustment of policy, rather than a natural agreement to work together)の緊張関係。
 - 植民地から主権（国家）へ転換する過程は複雑。領域の境界線は曖昧だった。未解決の国境線は今もある（Table23.1）。
@@ -38,7 +37,7 @@ tags:
 - ラテンアメリカ地域で民主的平和論は妥当か？　フォークランド紛争、ホンジュラスとエルサルバドルの戦争（1969）が勃発している。民主的平和論はLA諸国を一般化しすぎではないかという批判。例として、Rio Groupは不正選挙を理由にパナマを追い出した。MERCOSURやCentral American Integration Systemは内政不干渉原則を主張している（p.358）。ここでいうところの民主主義とはpresidents and legislators are selected via some electoral processであってmilitary not terminate elected officials' tenures early。
 - LA諸国の国際関係はあまり研究されていない。共通の利益のために主権が超国家的な制度に委譲（原文はrelinquishs）されているわけではない。EUやNATOの南米版をつくろうっていうレトリックに反しているのが現実。協力と競合の国際関係を分析する上で歴史的な視角は有用である。
 
-### Ferrantino & de de Piñeres (2015)
+### Ferrantino & de Piñeres (2015)
 
 ## 文献リスト
 - Ferrantino, M. J., & de Piñeres, S. A. G. (2015). Economic development and democracy in Latin America. Latin American democracy: emerging reality or endangered species, 228-243.
