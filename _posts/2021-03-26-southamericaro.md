@@ -29,7 +29,7 @@ tags:
 ## メモ
 
 ### Mares (2012)
--Sovereinty（the ability of a government to decide how it will respond to international challenges and opportunities）とCooperation(Mutual adjustment of policy, rather than a natural agreement to work together)の緊張関係。
+- Sovereinty（the ability of a government to decide how it will respond to international challenges and opportunities）とCooperation(Mutual adjustment of policy, rather than a natural agreement to work together)の緊張関係。
 - 植民地から主権（国家）へ転換する過程は複雑。領域の境界線は曖昧だった。未解決の国境線は今もある（Table23.1）。
 - 1826年にシモン・ボリバルはCongress of Panamaでメキシコ、中央アメリカ、コロンビア、ペルーが集まってTreaty of Union League Perpetual Confederationの創設にこぎつけた。1948年のOAS憲章では侵略と内政干渉を禁止する。
 - 安全保障ではアルゼンチンをはじめとして1890年代は軍拡に明け暮れていたが1902年のPactos de Mayo（Pact of May）で国家間の関係強化に結びついた。
