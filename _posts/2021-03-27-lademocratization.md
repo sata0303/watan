@@ -17,6 +17,8 @@ tags:
 - OAS：1990年代に民主主義をアジェンダに入れるようになり、3つの文書（Resolution 1080、Santiago Commitment to Democracy and the Renewal of the Inter-American System、1992 Protocol of Washington）で盛り込まれた。ただ、ハイチの1991年クーデタ、ペルーの1992年self-coup、グアテマラ1993年ではmarginalな役割を果たしたにすぎない。1996年のパラグアイクーデタではOASのSecurity Generalが動いた。
 - Mercosur：1996年パラグアイクーデタを否定、パラグアイを機構から追放すると脅す。以降、Mercosurは「democratic clause」を設け、民主主義の保全と定着に意欲的になった。
 - NAFTA：NAFTAに民主主義が定着していないメキシコが交渉に参加すると難航するのではないかという懸念が高まり国際的な圧力をかけた。
+- 債務危機とIMFによるコンディショナリティ。
+
 
 ## 各国の政治状況
 ### Argentina
@@ -25,7 +27,8 @@ tags:
 - 
 
 ### Chile
-- 1970年、選挙によって社会主義者のSalvador Allendeが大統領に選出される。ラディカルな経済政策で国民は分断され、クーデタによってAllendeは死亡。軍事政権は経済政策の失敗で追い込まれ、1989年の選挙でPatricio Aylwinが選出される。
+- 1970年、選挙によって社会主義者のSalvador Allende（アジェンデ）が大統領に選出される。ラディカルな経済政策で国民は分断され、クーデタによってAllendeは死亡。軍事政権は経済政策の失敗で追い込まれ、1989年の選挙でPatricio Aylwinが選出される。
+- アジェンデ政権の経済政策の失敗はピノチェト政権によるネオリベラルな政策の追い風になった。Chicago Boysの活躍。
 
 ### Mexico
 - 大統領はすべて文民。石油産業の国営化。選挙は6年おき、野党の存在も認められていた。が、大統領選出にクライエンテリズム的なシステムがはびこっており国内外から批判を浴びていた。
