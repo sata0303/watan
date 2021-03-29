@@ -50,6 +50,7 @@ tags:
 - 『イスラーム主義』
 - 『中東政治入門』
 
+### そのうち読みたい文献
 - Hertog, S. (2011). Princes, brokers, and bureaucrats: Oil and the state in Saudi Arabia. Cornell University Press.
 
 - Smith, B. (2006). The wrong kind of crisis: why oil booms and busts rarely lead to authoritarian breakdown. Studies in Comparative International Development, 40(4), 55-76.
