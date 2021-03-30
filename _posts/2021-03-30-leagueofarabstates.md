@@ -23,4 +23,18 @@ tags:
 ## 文献
 北澤義之『アラブ連盟：ナショナリズムとイスラームの交錯』山川出版社、2015年。
 
+Barnett, M. N. (1995). Sovereignty, nationalism, and regional order in the Arab states system. International Organization, 479-510.
+
+Johansson-Nogués, E. (2020). The Organization of Islamic Cooperation and the Arab League. In Group Politics in UN Multilateralism (pp. 97-114). Brill Nijhoff.
+
+Ibrahim, R. (2019). Primary and secondary institutions in regional international society: Sovereignty and the league of Arab states. In International Organization in the Anarchical Society (pp. 293-319). Palgrave Macmillan, Cham.
+
+Moussa, A. (2012). The UN and the League of Arab States: A Point of View on Future Interaction. In The United Nations and the Regions (pp. 107-108). Springer, Dordrecht.
+
+Worrall, J. (2017). International Institutions of the Middle East: The GCC, Arab League, and Arab Maghreb Union. Taylor & Francis.
+
+
+
+
+
 
